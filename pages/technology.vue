@@ -72,14 +72,17 @@ export default {
 .terminology {
   font-size: 14px;
   text-align: center;
+  padding-bottom: 10px;
 }
 .technology-name {
   font-size: 24px;
   text-align: center;
+  padding-bottom: 20px;
 }
 .technology-description {
   font-size: 15px;
   text-align: center;
+  padding-bottom: 20px;
 }
 img {
   max-width: 100%;
