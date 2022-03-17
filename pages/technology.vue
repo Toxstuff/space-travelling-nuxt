@@ -68,6 +68,7 @@ export default {
   list-style-type: none;
   text-align: center;
   justify-content: center;
+  margin-left: -50px;
 }
 .terminology {
   font-size: 14px;
