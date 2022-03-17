@@ -70,6 +70,10 @@ export default {
   justify-content: center;
   margin-left: -50px;
 }
+.dot-indicators > *:hover {
+  background-color: white;
+  color: black;
+}
 .terminology {
   font-size: 14px;
   text-align: center;
